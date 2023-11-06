@@ -7,7 +7,7 @@
       "condition": "Like New",
       "published": "Feb 2, 2020",
       "price": 400,
-      "freeShipping": true
+      "freeShipping": "true"
     },
     {
       "id": 100002,
