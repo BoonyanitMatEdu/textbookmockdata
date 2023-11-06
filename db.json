@@ -16,7 +16,7 @@
       "condition": "OK",
       "published": "Mar 3, 2020",
       "price": 100,
-      "freeShipping": false
+      "freeShipping": "false"
     },
     {
       "id": 100003,
@@ -25,7 +25,7 @@
       "condition": "Like New",
       "published": "April 1, 2020",
       "price": 200,
-      "freeShipping": true
+      "freeShipping": "true"
     }
   ]
 }
